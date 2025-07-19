@@ -139,7 +139,7 @@
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dxvnee&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-[![](https://github-readme-stats.vercel.app/api?username=dxvnee&theme=radical&_border=false&include_all_commits=true&count_private=true&custom_title=dxvne's%20GitHub%20Stats)<br/>](https://github-readme-stats.vercel.app/api?username=dxvnee&theme=radical&border=false&include_all_commits=true&count_private=true&custom_title=dxvne's%20GitHub%20Stats)
+[![](https://github-readme-stats.vercel.app/api?username=dxvnee&theme=radical&_border=false&include_all_commits=true&count_private=true&custom_title=Dxvne%20GitHub%20Stats)<br/>](https://github-readme-stats.vercel.app/api?username=dxvnee&theme=radical&border=false&include_all_commits=true&count_private=true&custom_title=dxvne's%20GitHub%20Stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dxvnee&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
