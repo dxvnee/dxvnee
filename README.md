@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=420&height=28&lines=Hi👋+I'm+Eigiya+Daramuli+Kale..;Software+Engineer+Application+Student;Web+%26+Android+Developer;Informatics+Student+%7C+Telkom+University;Tech+Enthusiast;Always+Learning+Something+New!&center=true">
 </p>
 
-**eigiya/eigiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ---
 
 ### 🚀 About Me
